@@ -4,7 +4,7 @@ This is a case study in the Capstone Projects Course which is the last step of G
 
 ## Scenario:
 
-I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. 
+I am a junior data analyst working in the marketing analytics team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. 
 
 The company has 3 pricing plans which these are:
 - Single-ride passes
