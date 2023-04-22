@@ -16,7 +16,7 @@ The company has 3 pricing plans which these are:
 
 In this case study I prefer to use Spreadsheet, R, and Google Slides. Unfortunately, company data was too big for the Spreadsheet so I decided to choose a sample dataset and work on it. The dataset has % 98 confidence level and %2 merges of error level. Sample sizes are chosen depending on Sample Size Calculator Sheet shared to course content. 
 
-You will find the original datasets, sample sizes dataset and the R codes in files.
+You will find the sample sizes dataset and the R codes in files.
 
 If you prefer, you can skip this section and go directly to the presentation of the study's results [here](https://docs.google.com/presentation/d/16AnP5sXYlwnLgVwt5tGeskD--BeT_ITuPneEKoZgvPw/edit?usp=sharing&resourcekey=0-YGSFUJHJZrkGGO2c1s5Giw).
 
